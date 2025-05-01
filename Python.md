@@ -1,0 +1,6 @@
+## Python for biological data
+
+- **learned python basics through W3schools March 2025**.
+- **Practiced how import fasta file 01/05/2025**.
+- **Practiced how to count dna nucleotides, GC and AT content in percentge**.
+- [Genepy](https://genepy.org/)
